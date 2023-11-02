@@ -11,5 +11,3 @@ project_setup <- function() {
   writeLines("Set up the readme", "docs/index.md")
   return("SUCCESS!")
 }
-
-project_setup()
